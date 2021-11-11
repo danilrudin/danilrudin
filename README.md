@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maslinin
-- 👀 I’m interested in C/C++ development
+- 👀 I am interested in developing applications on C/C++, I am not interested in web development:)
 - Languages in which I write: C, C++ and C Sharp
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on **GSC Game World** :) (this is my dream)
