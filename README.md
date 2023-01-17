@@ -13,10 +13,10 @@ I'm interested in the following areas:
 
 - С/C++
 - C#
-  - WPF, WinForm
+  - WinForm, WPF
   - LINQ
   - Reflection
-  - Dapper, ADO.NET, Entity Framework Core
+  - ADO.NET, Dapper, Entity Framework Core
   - xUnit, NUnit
   - LibGit2Sharp
 - JavaScript
