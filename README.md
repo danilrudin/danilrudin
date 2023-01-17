@@ -21,7 +21,6 @@ I'm interested in the following areas:
   - LibGit2Sharp
 - JavaScript
   - TypeScript
-  - NodeJS
   - DiscordJS
 - DataBases
   - MS Sql Server
