@@ -20,10 +20,8 @@ I'm interested in the following areas:
   - xUnit
   - NUnit
   - LibGit2Sharp
-  - Newtonsoft.Json
   - Entity Framework Core
 - JavaScript
-  - HTML
   - TypeScript
   - NodeJS
   - DiscordJS
@@ -33,7 +31,6 @@ I'm interested in the following areas:
   - SQLite
 - DevOps
   - CI/CD
-  - Yaml
   - Bash
   - PowerShell
   - SonarQube
@@ -46,7 +43,6 @@ I'm interested in the following areas:
   - Design Patterns
 - Other
   - Git
-  - .NET
   - RabbitMQ
   - Apache Kafka
   - Apache ActiveMQ Artemis
