@@ -11,16 +11,12 @@ I'm interested in the following areas:
 
 - С/C++
 - C#
-  - WPF
-  - WinForm
+  - WPF, WinForm
   - LINQ
   - Reflection
-  - Dapper
-  - ADO.NET
-  - xUnit
-  - NUnit
+  - Dapper, ADO.NET, Entity Framework Core
+  - xUnit, NUnit
   - LibGit2Sharp
-  - Entity Framework Core
 - JavaScript
   - TypeScript
   - NodeJS
@@ -31,21 +27,14 @@ I'm interested in the following areas:
   - SQLite
 - DevOps
   - CI/CD
-  - Bash
-  - PowerShell
+  - Bash, PowerShell
   - SonarQube
   - Putty
 - Computer Science
-  - SOLID
-  - DRY
-  - KISS
-  - YAGNI
+  - SOLID, DRY, KISS, YAGNI
   - Design Patterns
 - Other
-  - Git
-  - RabbitMQ
-  - Apache Kafka
-  - Apache ActiveMQ Artemis
+  - RabbitMQ, Apache Kafka, Apache ActiveMQ Artemis
   - Azure DevOps Server
 
 ![Saiyd github stats](https://github-readme-stats.vercel.app/api?username=maslinin&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maslinin&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
