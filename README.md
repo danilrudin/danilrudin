@@ -2,7 +2,7 @@
 
 I’m Danil Rudin aka Maslinin, and I'm 20 years old. I graduated from `Moscow College of Business Technologies` with a degree in `Information Security of Automated Systems`.
 
-Now I work for `Logrocon Software engineering`.
+Now I work for `Logrocon Software Engineering`.
 
 I'm interested in the following areas:
 - Game Development
