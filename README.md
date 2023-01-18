@@ -12,7 +12,6 @@ I'm interested in the following areas:
 ## 💡 My Skills
 
 - С/C++
-  - CMake
 - C#
   - WinForm, WPF
   - LINQ
