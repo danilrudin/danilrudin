@@ -31,10 +31,8 @@ I'm interested in the following areas:
   - Bash, PowerShell
   - SonarQube
   - Putty
-- Computer Science
-  - SOLID, DRY, KISS, YAGNI
-  - Design Patterns
 - Other
+  - CMake
   - Azure DevOps Server
   - RabbitMQ, Apache Kafka, Apache ActiveMQ Artemis
   
