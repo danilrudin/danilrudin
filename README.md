@@ -36,6 +36,6 @@ I'm interested in the following areas:
   - Azure DevOps Server
   - RabbitMQ, Apache Kafka, Apache ActiveMQ Artemis
   
-![Saiyd github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=maslinin&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=maslinin&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+![Saiyd github stats](https://github-readme-stats.vercel.app/api?username=maslinin&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maslinin&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
