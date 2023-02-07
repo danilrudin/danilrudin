@@ -31,7 +31,7 @@ I'm interested in the following areas:
   - CI/CD
   - Bash, PowerShell
   - SonarQube
-  - Putty
+  - Docker
 - Other
   - CMake
   - Azure DevOps Server
