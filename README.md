@@ -16,9 +16,9 @@ I'm interested in the following areas:
   - WinForm, WPF
   - LINQ
   - Reflection
-  - ADO.NET, Dapper, Entity Framework Core
   - xUnit, NUnit
   - LibGit2Sharp
+  - ADO.NET, Dapper, Entity Framework Core
 - JavaScript
   - HTML
   - TypeScript
@@ -33,8 +33,10 @@ I'm interested in the following areas:
   - SonarQube
   - Docker
 - Other
+  - Git
   - CMake
   - Azure DevOps Server
+  - MS Sql Server, PostgreSql, SQLite
   - RabbitMQ, Apache Kafka, Apache ActiveMQ Artemis
   
 ![Saiyd github stats](https://github-readme-stats.vercel.app/api?username=maslinin&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maslinin&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
