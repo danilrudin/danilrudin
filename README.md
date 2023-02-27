@@ -17,6 +17,7 @@ I'm interested in the following areas:
   - LINQ
   - Reflection
   - xUnit, NUnit
+  - NLog
   - LibGit2Sharp
   - ADO.NET, Dapper, Entity Framework Core
 - JavaScript
