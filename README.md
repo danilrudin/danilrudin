@@ -23,15 +23,11 @@ I'm interested in the following areas:
   - HTML
   - TypeScript
   - DiscordJS
-- DataBases
-  - MS Sql Server
-  - PostgreSql
-  - SQLite
 - DevOps
   - CI/CD
-  - Bash, PowerShell
-  - SonarQube
   - Docker
+  - SonarQube
+  - Bash, PowerShell
 - Other
   - Git
   - CMake
