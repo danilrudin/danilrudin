@@ -9,6 +9,8 @@ I'm interested in the following areas:
 - System Development
 - Desktop Development
 
+My Discord is ```Maslinin#9796```
+
 ## 💡 My Skills
 
 - С/C++
