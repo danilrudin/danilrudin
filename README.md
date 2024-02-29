@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I’m Danil Rudin aka Maslinin, and I'm 20 years old. I'm a graduate student of `Moscow College of Business Technologies` with a degree in `Information Safety of Automated Systems`.
+I’m Danil Rudin aka Maslinin, and I'm 21 years old. I'm a graduate student of `Moscow College of Business Technologies` with a degree in `Information Safety of Automated Systems`.
 
 Now I work for `Logrocon Software Engineering`.
 
@@ -9,18 +9,17 @@ I'm interested in the following areas:
 - System Development
 - Desktop Development
 
-My Discord is ```Maslinin#9796```
+My Discord is ```maslinin```
 
 ## 💡 My Skills
 
 - С/C++
 - C#
+  - ASP.NET
   - WinForm, WPF
   - LINQ
   - Reflection
   - xUnit, NUnit
-  - NLog
-  - LibGit2Sharp
   - ADO.NET, Dapper, Entity Framework Core
 - JavaScript
   - HTML
