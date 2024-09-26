@@ -16,6 +16,7 @@ My Discord is ```maslinin```
 - С/C++
 - C#
   - ASP.NET
+  - SignalR
   - WinForm, WPF
   - LINQ
   - Reflection
