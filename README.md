@@ -22,9 +22,10 @@ My Discord is ```maslinin```
   - Reflection
   - xUnit, NUnit
   - ADO.NET, Dapper, Entity Framework Core
-- JavaScript
+- JS/TS
   - HTML
-  - TypeScript
+  - Node.js
+  - typesafe-i18n
 - DevOps
   - CI/CD
   - Docker
