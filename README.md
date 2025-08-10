@@ -1,7 +1,5 @@
 ## 👋 Hi there!
 
-I’m Danil Rudin aka Maslinin. I'm a graduate student of `Moscow College of Business Technologies` with a degree in `Information Safety of Automated Systems`.
-
 I'm interested in the following areas:
 - Game Development
 - System Development
