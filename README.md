@@ -63,4 +63,8 @@ I am **Danil Rudin**, a back-end developer from Moscow, focusing on web, system,
 
 ---
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilrudin/danilrudin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilrudin/danilrudin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/danilrudin/danilrudin/output/github-contribution-grid-snake.svg" />
+</picture>
