@@ -26,7 +26,8 @@ I care about simple designs, explicit boundaries, readable code, and solutions t
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=danilrudin&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilrudin&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 ---
 
 <picture>
