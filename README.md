@@ -18,10 +18,6 @@ I care about simple designs, explicit boundaries, readable code, and solutions t
 1. **[Consyzer](https://github.com/danilrudin/Consyzer)**  
    CLI tool for analyzing native dependencies in .NET assemblies.
 
-## Contact
-
-- Discord: [Maslinin](https://discord.com/users/543668455329759244)
-
 ---
 
 ### GitHub Stats
